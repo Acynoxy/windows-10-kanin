@@ -26,3 +26,5 @@ Terminal: Windows Terminal
 
 Terminal Stuff: fatsfetch, pipes-rs, CAVA, MusikCube, and WSL + tty-clock
 
+Configurations: From the internet (Tweaked a bit, not mine.)
+
