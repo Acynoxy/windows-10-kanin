@@ -1,6 +1,6 @@
 # windows-10-kanin
 # Preview:
-![alt text](https://github.com/Acynoxy/windows-10-kanin/blob/main/preview.jpg?raw=true)
+![alt text](https://github.com/Acynoxy/windows-10-kanin/blob/main/preview.png?raw=true)
 
 Kanin (Rice) for Windows 10 (Includes WSL)
 
