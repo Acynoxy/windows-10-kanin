@@ -1,4 +1,7 @@
 # windows-10-kanin
+# Preview:
+![alt text](https://github.com/Acynoxy/windows-10-kanin/blob/main/preview.jpg?raw=true)
+
 Kanin (Rice) for Windows 10 (Includes WSL)
 
 Wallpapers: From wallpaper-a-day and mifuru (pixiv)
