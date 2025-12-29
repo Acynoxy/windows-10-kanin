@@ -22,9 +22,23 @@ WM: FancyZones (Microsoft Powertoys)
 
 https://github.com/microsoft/PowerToys
 
-Terminal: Windows Terminal
+Terminal: Windows Terminal (1.23.13503.0, x64 (my system) or x86)
 
-Terminal Stuff: fatsfetch, pipes-rs, CAVA, MusikCube, and WSL + tty-clock
+https://github.com/microsoft/terminal 
+
+Terminal Stuff: fastfetch, pipes-rs, CAVA, MusikCube, and WSL (Ubuntu) + tty-clock (Use apt update and apt upgrade to install)
+
+https://github.com/fastfetch-cli/fastfetch
+
+https://github.com/lhvy/pipes-rs
+
+https://github.com/karlstav/cava
+
+https://musikcube.com/
+
+https://github.com/microsoft/WSL
+
+https://github.com/xorg62/tty-clock
 
 Configurations: From the internet (Tweaked a bit, not mine.)
 
