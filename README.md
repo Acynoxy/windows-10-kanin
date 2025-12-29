@@ -40,5 +40,7 @@ https://github.com/microsoft/WSL
 
 https://github.com/xorg62/tty-clock
 
+tty-clock command: tty-clock -s -c -C 6 (Choose any color number)
+
 Configurations: From the internet (Tweaked a bit, not mine.)
 
